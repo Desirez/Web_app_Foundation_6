@@ -65,7 +65,6 @@ If your favorite feature is missing and you really need Ruby Sass, you can alway
 
 See the [contributing docs](contributing.md).
 
-
 ## License
 
 [BSD license](http://opensource.org/licenses/bsd-license.php)
